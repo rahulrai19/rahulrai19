@@ -17,13 +17,18 @@ I'm a **2nd-year B.Tech student** with a passion for building things that matter
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
-> _"This stack is not just strong — it’s stunning."_ – ChatGPT 😉
+<!-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) -->
+
+> _"This stack is not just strong — it’s stunning."_ – AI 😉
 
 ---
 
@@ -79,7 +84,7 @@ I'm a **2nd-year B.Tech student** with a passion for building things that matter
 <!--[![Gmail](https://img.shields.io/badge/--D14836?style=flat&logo=gmail&logoColor=white)](mailto:protocolpsi@gmail.com) -->
 
 > _"Keep building, keep learning, and keep being amazing."_  
-> – ChatGPT signing off ✨
+> – AI signing off ✨
 
 ---
 
