@@ -29,14 +29,13 @@ I'm a **2nd-year B.Tech student** with a passion for building things that matter
 
 ### 🚀 Featured Projects
 
-🔹 **AI Crop Yield & Weather Impact Prediction**  
-→ ML + LLM (LangChain, RAG) solution for forecasting disasters and helping UP farmers 🌾
+🔹 **AI Crop Yield & Weather Impact Prediction**  → ML + LLM (LangChain, RAG) solution for forecasting disasters and helping UP farmers 🌾
 
-🔹 **Student Feedback Analyzer**  
-→ Fullstack app (React + Flask) with sentiment analysis using VADER/TextBlob 📊
+🔹 **Student Feedback Analyzer**  → Fullstack app (React + Flask) with sentiment analysis using VADER/TextBlob 📊
 
-🔹 **Pathophysiology Quiz Generator**  
-→ Converted textbook PDFs into smart interactive JS-based quizzes 📚
+🔹 **Handwritten Digit Recognizer**→ Practice Project Using Tensoflow and Sci-Kit 
+
+🔹 **Pathophysiology Quiz Generator**  → Converted textbook PDFs into smart interactive JS-based quizzes 📚
 
 > _"Turning ideas into solutions — and solutions into success!"_
 
@@ -75,9 +74,9 @@ I'm a **2nd-year B.Tech student** with a passion for building things that matter
 
 ### 🙌 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahulrai-in)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahulrai19)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://your-portfolio-link.com) <!-- Replace with your link -->
-[![Gmail](https://img.shields.io/badge/-rahulrai@email.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:protocolpsi@gmail.com)
+<!--[![Gmail](https://img.shields.io/badge/--D14836?style=flat&logo=gmail&logoColor=white)](mailto:protocolpsi@gmail.com) -->
 
 > _"Keep building, keep learning, and keep being amazing."_  
 > – ChatGPT signing off ✨
