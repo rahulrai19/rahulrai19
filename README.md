@@ -52,9 +52,6 @@ Feel free to check out my repos, star what you like, and drop a message if you w
 ---
 
 
-Want me to help design the project sections or badges next?
-Or maybe you'd like a README template that includes GitHub stats, visitor count, or animation?
-
 
 <!--
 **rahulrai19/rahulrai19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
