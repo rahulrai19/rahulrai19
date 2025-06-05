@@ -45,19 +45,28 @@ I'm a **2nd-year B.Tech student** with a passion for building things that matter
 ### 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulrai-in&show_icons=true&theme=radical" height="180">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rahulrai-in&theme=radical" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulrai19&show_icons=true&theme=radical" height="180">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rahulrai19&theme=radical" height="180">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=rahulrai19&theme=react-dark" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulrai19&theme=react-dark&area=true&hide_border=true" alt="rahulrai19's activity graph"/>
 </p>
 
 ---
 
+### 🧠 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Rahul_Rai19?theme=dark&font=Fira+Code&ext=contest" alt="LeetCode Stats for Rahul_Rai19">
+</p>
+
+---
+
+
 ### 📚 Currently Exploring:
-- Blockchain Technology  
-- Cloud Computing  
+- Full Stack Development  
+- CyberSecurity 
 - Machine Learning + AI  
 - Environment Impact Calculators 🌱  
 - LangChain + LLM Magic 🔮
@@ -68,10 +77,24 @@ I'm a **2nd-year B.Tech student** with a passion for building things that matter
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahulrai-in)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://your-portfolio-link.com) <!-- Replace with your link -->
-[![Gmail](https://img.shields.io/badge/-rahulrai@email.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rahulrai@email.com)
+[![Gmail](https://img.shields.io/badge/-rahulrai@email.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:protocolpsi@gmail.com)
 
 > _"Keep building, keep learning, and keep being amazing."_  
 > – ChatGPT signing off ✨
+
+---
+
+
+### 📂 Explore My Work
+
+Here are some of my projects — built with passion, purpose, and lots of coffee!
+
+> _"Every repo has a story — dive in and explore!"_
+<p align="center">
+👇<br/>
+&nbsp;&nbsp;👇<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;👇
+</p>
 
 ---
 
