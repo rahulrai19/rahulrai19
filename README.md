@@ -5,14 +5,14 @@
 
 ---
 
-### 🤔 Who is Rahul Rai?
+### 🤔 About Me
 > _"Who am I? Glad you asked!"_
 
-I'm a **3rd-year B.Tech student** with a passion for building things that matter. Whether it’s using AI to predict crop yields 🌾 or analyzing campus feedback for better experiences 🧠 — I blend creativity and code to drive change.
+I'm a **third-year B.Tech student** specializing in building impactful solutions at the intersection of web development and Artificial Intelligence. I am driven by a passion for turning complex problems into elegant, efficient code. Whether it's leveraging AI to forecast crop yields 🌾 or engineering applications to enhance campus life 🧠, my goal is to build things that matter.
 
 ---
 
-### ⚒️ Tech Stack I Play With
+### ⚒️ My TechStack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
