@@ -8,7 +8,7 @@
 ### 🤔 Who is Rahul Rai?
 > _"Who am I? Glad you asked!"_
 
-I'm a **2nd-year B.Tech student** with a passion for building things that matter. Whether it’s using AI to predict crop yields 🌾 or analyzing campus feedback for better experiences 🧠 — I blend creativity and code to drive change.
+I'm a **3rd-year B.Tech student** with a passion for building things that matter. Whether it’s using AI to predict crop yields 🌾 or analyzing campus feedback for better experiences 🧠 — I blend creativity and code to drive change.
 
 ---
 
@@ -40,7 +40,7 @@ I'm a **2nd-year B.Tech student** with a passion for building things that matter
 
 🔹 **Handwritten Digit Recognizer**→ Practice Project Using Tensoflow and Sci-Kit 
 
-🔹 **Pathophysiology Quiz Generator**  → Converted textbook PDFs into smart interactive JS-based quizzes 📚
+🔹 **Environment Impact Assesment** ->
 
 > _"Turning ideas into solutions — and solutions into success!"_
 
