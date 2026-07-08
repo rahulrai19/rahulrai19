@@ -5,7 +5,7 @@ Software Engineer • Full Stack Developer • AI & Machine Learning Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00F5A0&center=true&vCenter=true&width=700&lines=Building+Scalable+Software;Full+Stack+Developer+%7C+MERN+Stack;Backend+Developer+%7C+Django+%7C+FastAPI;Machine+Learning+%26+Generative+AI;400%2B+DSA+Problems+Solved" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00F5A0&center=true&vCenter=true&width=700&lines=Building+Scalable+Software;Full+Stack+Developer+%7C+MERN+Stack;Backend+Developer+%7C+Django+%7C+FastAPI;Machine+Learning+%26+Generative+AI" alt="Typing SVG"/>
 </p>
 
 <p align="center">
