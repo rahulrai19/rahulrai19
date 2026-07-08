@@ -1,121 +1,224 @@
-<h1 align="center">Hey there 👋, I'm Rahul Rai</h1>
+<h1 align="center">Hi 👋, I'm Rahul Rai</h1>
+<h3 align="center">Software Engineering Intern • Full Stack Developer • AI Enthusiast</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F5A0&center=true&vCenter=true&width=435&lines=Tech+Explorer+%7C+MERN+Stack+Lover;AI+Builder+with+a+Vision;Turning+Ideas+into+Impact" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00F5A0&center=true&vCenter=true&width=650&lines=Building+Scalable+Software;Full+Stack+Developer+%7C+MERN+Stack;Backend+Developer+%7C+Django+%7C+FastAPI;Machine+Learning+%26+Generative+AI;400%2B+DSA+Problems+Solved" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rahulrai19">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/rahulrai19">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/Rahul_Rai19/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="mailto:rair95975@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-### 🤔 About Me
-> _"Who am I? Glad you asked!"_
+# 👨‍💻 About Me
 
-I'm a **third-year B.Tech student** specializing in building impactful solutions at the intersection of web development and Artificial Intelligence. I am driven by a passion for turning complex problems into elegant, efficient code. Whether it's leveraging AI to forecast crop yields 🌾 or engineering applications to enhance campus life 🧠, my goal is to build things that matter.
+🎓 Computer Science undergraduate passionate about building scalable software and AI-powered applications.
 
----
+💻 I enjoy designing backend systems, developing full-stack applications, and building intelligent software using modern web technologies.
 
-### ⚒️ My TechStack
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+🚀 My interests lie at the intersection of Software Engineering, Artificial Intelligence, and Machine Learning, where I enjoy transforming ideas into impactful products.
 
-<!-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) -->
-
-> _"This stack is not just strong — it’s stunning."_ – AI 😉
+🎯 Always learning by building projects that solve real-world problems.
 
 ---
 
-### 🚀 Featured Projects
+# 🚀 Featured Projects
 
-🔹 **AI Crop Yield & Weather Impact Prediction**  → ML + LLM (LangChain, RAG) solution for forecasting disasters and helping UP farmers 🌾
+## 📚 Collabo – Real-Time Collaborative Study Room Platform
 
-🔹 **Student Feedback Analyzer**  → Fullstack app (React + Flask) with sentiment analysis using VADER/TextBlob 📊
+A collaborative study platform enabling students to create public and private study rooms with real-time communication and productivity tools.
 
-🔹 **Handwritten Digit Recognizer**→ Practice Project Using Tensoflow and Sci-Kit 
+### ✨ Features
 
-🔹 **Environment Impact Assesment** ->
+- 👥 Public & Private Study Rooms
+- 💬 Real-Time Socket.IO Chat
+- 🎯 Deep Focus Mode
+- 📊 Activity Tracking & Leaderboard
+- 📝 Shared Notes & Tasks
+- 📁 Real-Time File Sharing
+- ⏱️ Picture-in-Picture Floating Study Timer
+- 🔐 JWT Authentication
+- ☁️ Cloudinary Media Management
 
-> _"Turning ideas into solutions — and solutions into success!"_
+**Tech Stack**
+
+`React` • `Vite` • `Tailwind CSS` • `Node.js` • `Express.js` • `MongoDB` • `Socket.io` • `JWT` • `Cloudinary`
 
 ---
 
-### 📈 GitHub Stats & Activity
+## 🌾 Agri 4.0 – AI Powered Crop Health Monitoring
+
+An AI-powered precision agriculture platform that detects crop diseases, analyzes plant health, and provides intelligent farming insights.
+
+### ✨ Features
+
+- 🌱 Crop Disease Detection
+- 📈 NDVI Analysis
+- 🤖 CNN-Based Deep Learning
+- 📹 Video Guidance Modules
+- 💹 Market Insights
+- 👨‍🌾 Community Knowledge Sharing
+
+**Tech Stack**
+
+`Python` • `TensorFlow` • `OpenCV` • `YOLO` • `FastAPI` • `React` • `MongoDB`
+
+---
+
+## 🧠 HopeLine – Digital Mental Health Platform
+
+A full-stack platform providing structured psychological assessments and AI-powered mental health assistance.
+
+### ✨ Features
+
+- 🤖 Gemini AI Chatbot
+- 📋 PHQ-9 & GAD-7 Assessments
+- 👨‍⚕️ Student & Admin Dashboards
+- 🌍 Multilingual Support
+- 🔐 JWT Authentication
+
+**Tech Stack**
+
+`React` • `Node.js` • `Express.js` • `MongoDB` • `JWT` • `Gemini API`
+
+---
+
+# 💻 Tech Stack
+
+### 👨‍💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,c,mysql"/>
+</p>
+
+### 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap"/>
+</p>
+
+### ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi"/>
+</p>
+
+### 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql"/>
+</p>
+
+### 🤖 AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv"/>
+</p>
+
+### 🛠️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux"/>
+</p>
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulrai19&show_icons=true&theme=radical" height="180">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rahulrai19&theme=radical" height="180">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rahulrai19&show_icons=true&theme=radical"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=rahulrai19&theme=radical"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulrai19&theme=react-dark&area=true&hide_border=true" alt="rahulrai19's activity graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulrai19&layout=compact&theme=radical"/>
 </p>
 
 ---
 
-### 🧠 LeetCode Stats
+# 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Rahul_Rai19?theme=dark&font=Fira+Code&ext=contest" alt="LeetCode Stats for Rahul_Rai19">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulrai19&theme=react-dark&hide_border=true&area=true"/>
 </p>
 
----
 
-
-### 📚 Currently Exploring:
-- Full Stack Development  
-- CyberSecurity 
-- Machine Learning + AI  
-- Environment Impact Calculators 🌱  
-- LangChain + LLM Magic 🔮
 
 ---
 
-### 🙌 Let's Connect
+# 🧠 LeetCode
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahulrai19)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://your-portfolio-link.com) <!-- Replace with your link -->
-<!--[![Gmail](https://img.shields.io/badge/--D14836?style=flat&logo=gmail&logoColor=white)](mailto:protocolpsi@gmail.com) -->
-
-> _"Keep building, keep learning, and keep being amazing."_  
-> – AI signing off ✨
-
----
-
-
-### 📂 Explore My Work
-
-Here are some of my projects — built with passion, purpose, and lots of coffee!
-
-> _"Every repo has a story — dive in and explore!"_
 <p align="center">
-👇<br/>
-&nbsp;&nbsp;👇<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;👇
+<img src="https://leetcard.jacoblin.cool/Rahul_Rai19?theme=dark&font=Fira+Code&ext=contest"/>
 </p>
 
 ---
 
+# 🏅 Achievements
 
+- 💻 Solved **400+ DSA Problems** in Java
+- 🗃️ Solved **80+ SQL Problems**
+- 🤖 Built Multiple AI & Machine Learning Projects
+- 🌐 Developed Multiple Full Stack Applications
+- 🚀 Passionate about building scalable software solutions
 
+---
 
-<!--
-**rahulrai19/rahulrai19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💡 Core Expertise
 
-Here are some ideas to get you started:
+- 🌐 Full Stack Development
+- ⚙️ Backend Development
+- 🤖 Machine Learning
+- 🧠 Generative AI
+- 🗄️ Database Design
+- 📊 Data Structures & Algorithms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 🚀 What I'm Building
+
+- 📚 Real-Time Collaborative Applications
+- 🌾 AI Solutions for Agriculture
+- 🧠 Intelligent Web Applications powered by LLMs
+- ⚡ Scalable Backend Systems
+- ☁️ Production-Ready Full Stack Projects
+
+---
+
+# 📫 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rahulrai19">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+
+  <a href="mailto:rair95975@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+  </a>
+
+  <a href="https://github.com/rahulrai19">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+  </a>
+
+  <a href="https://leetcode.com/u/Rahul_Rai19/">
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+⭐ <b>Thanks for visiting my profile! Feel free to explore my repositories and connect with me.</b> ⭐
+</p>
